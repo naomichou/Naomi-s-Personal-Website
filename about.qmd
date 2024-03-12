@@ -1,5 +1,5 @@
 ---
-title: "About"
+toc: FALSE
 ---
-
+## About
 About this site

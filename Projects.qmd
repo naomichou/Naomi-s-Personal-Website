@@ -1,5 +1,6 @@
 ---
-title: "Projects"
+toc: FALSE
 ---
+## Projects 
 
 Here are my projects

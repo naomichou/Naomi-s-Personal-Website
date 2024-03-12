@@ -1,5 +1,31 @@
 ---
-title: "Naomi's Website"
+toc: false
+about:
+  template: trestles
+  links: 
+    - icon: linkedin
+      text: Linkedin
+      url: "https://www.linkedin.com/in/naomichou/"
+    - icon: github
+      text: Github
+      url: "https://github.com/naomichou"
+    - icon: mail
+      text: Email
+      url: "mailto:naomichou@g.ucla.edu"
+image: profile_pic.JPG
+comments: false
 ---
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Home
+
+Hi! Welcome to my personal website.\n
+
+I'm Naomi Chou, an undergraduate student at the University of California, Los Angeles (UCLA) majoring in Statistics and Data Science with minors in Professional Writing and Digital Humanities. My professional interests lie in the applications of data science in business, big data analytics, and artificial intelligence (AI).\n
+
+I currently work as a Data Science and AI Engineer for Spade AI, a start-up specializing in market intelligence and analysis, and a Data Analyst for Roadrunners Venture Studios, a company focused on commercializing lab technology. I also work at the UCLA Office of Advanced Research Computing as a High Performance Computing (HPC) Systems Intern.\n
+
+Please do not hesitate to reach out to me via Email or LinkedIn. My most recent [CV](/docs/CV/CV.pdf "CV") is linked here!
+
+
+
+
