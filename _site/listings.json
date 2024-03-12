@@ -2,6 +2,10 @@
   {
     "listing": "/Projects.html",
     "items": [
+      "/projects/TrumpTweets.html",
+      "/projects/Alcohol.html",
+      "/projects/KPMG_Ideation.html",
+      "/projects/TunnelMan.html",
       "/projects/IMC.html"
     ]
   }

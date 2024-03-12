@@ -1,0 +1,8 @@
+---
+title: Alcoholic Status Classifier
+category:
+  -"R"
+date: December 16, 2023
+description: Created a Random Forest model to correctly predict the alcoholic status of an individual based on 26 variablesAl
+image: Alcohol.png
+---

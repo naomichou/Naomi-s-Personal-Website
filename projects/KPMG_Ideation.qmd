@@ -1,0 +1,8 @@
+---
+title: KPMG Ideation Challenge
+category:
+  -"Business"
+date: December 8, 2023
+description: Integrating Generative AI into the mental health industry, specifically the online counseling business BetterHelp
+image: KPMG.png
+---

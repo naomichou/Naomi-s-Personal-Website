@@ -1,0 +1,9 @@
+---
+title: Sentiment Analysis of Trump Tweets
+category:
+  -"R"
+  -"Python"
+date: March 15, 2024
+description: An investigation of the emotions of Donald Trump throughout the 2016 and 2020 Presidential Election cycles
+image: trump.jpeg
+---
