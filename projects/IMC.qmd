@@ -1,0 +1,8 @@
+---
+title: IMC - Wei Good Food
+category:
+  -"Business"
+date: December 8, 2022
+description: An integrated marketing communications (IMC) plan for an Asian fusion snack start-up, Wei Good Food
+image: header.png
+---

@@ -1,29 +1,22 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "about.html#work-experience",
+    "href": "about.html#work-experience",
     "title": "Naomi Chou",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "about.html#about",
-    "href": "about.html#about",
-    "title": "Naomi Chou",
-    "section": "",
-    "text": "About this site"
+    "section": "Work Experience",
+    "text": "Work Experience\n\nData Analyst, Roadrunners Venture Studios\nLos Angeles, CA  February 2024 - Present \n\nLeading an extensive web scraping operation via Excel, Python, and R to collect over 10,000 publications and profiles related to 3D printing and additive manufacturing, efficiently storing and organizing findings in a custom database on AWS S3\nConducting in-depth data analysis of the scraped datasets using NumPy and Pandas to identify optimal 3D printing technologies for Fab AI, a Roadrunners Venture Studios co-founded company merging 3D printing with prompt engineering\n\n\n\nData Science/AI Engineer, Spade AI\nBrooklyn, NY  February 2024 - Present \n\nElevating generative AI models by integrating prompt engineering with Python programming, leveraging the OpenAI API to improve content accuracy and quality significantly\nDeveloping a Python-powered chat interface to deliver precise market intelligence insights\nUtilizing Jira for project management to efficiently organize and track development tasks and collaborating on the expansion of product features to include competitor and risk analysis\n\n\n\nHigh Performance Computing (HPC) Systems Intern, UCLA OARC\nLos Angeles, CA  January 2024 - Present \n\nEnhancing scholarly communication by editing citations on Zotero and web scraping related publications, acknowledging the significant contributions of the UCLA Hoffman2 cluster to various research projects\nConducting comprehensive data analysis to evaluate the cluster’s impact and identify opportunities for optimization, informing future enhancements and user support strategies\n\n\n\nSTEM and Writing Tutor\nRemote January 2019 - Present \n\nTutored over 5 middle and high school students in (AP/non-AP) level subjects such as mathematics, statistics, and writing, offering personalized and adaptive teaching strategies\nDeveloped and shared tailored notes and resources to clarify complex mathematical, statistical, and writing concepts, leading to significant academic improvements from an average of D+ to B+\n\n\n\nBusiness Development Intern, Evyree\nLos Angeles, CA  April 2023 - December 2023 \n\nForged strategic partnerships with 25+ businesses such as Sweetgreen to offer exclusive deals and discounts for the UCLA and upcoming Santa Monica College (SMC) student community\nOrchestrated targeted digital marketing campaigns on social media platforms such as Instagram by curating 5+ customized posts to enhance brand visibility and promote customer engagement\n\n\n\nMarketing Sales Intern, Fubon Financial Holding Co.\nTaipei, Taiwan  July - September 2022 \n\nConducted 100+ market surveys to analyze customer needs and current trends in the healthcare industry to better cater to customers’ needs and minimize financial losses\nDesigned and discussed effective marketing strategies such as the creation of referral programs, resulting in an outreach of more than 50+ potential customers"
   },
   {
     "objectID": "Projects.html",
     "href": "Projects.html",
-    "title": "Naomi Chou",
+    "title": "Projects",
     "section": "",
-    "text": "Here are my projects"
+    "text": "Here are my projects\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIMC - Wei Good Food\n\n\n\n\n\nAn integrated marketing communications (IMC) plan for an Asian fusion snack start-up, Wei Good Food\n\n\n\n\n\nDec 8, 2022\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Projects.html#projects",
     "href": "Projects.html#projects",
-    "title": "Naomi Chou",
+    "title": "Projects",
     "section": "",
     "text": "Here are my projects"
   },
@@ -35,10 +28,31 @@
     "text": "Hi! Welcome to my personal website.\nI’m Naomi Chou, an undergraduate student at the University of California, Los Angeles (UCLA) majoring in Statistics and Data Science with minors in Professional Writing and Digital Humanities. My professional interests lie in the applications of data science in business, big data analytics, and artificial intelligence (AI).\nI currently work as a Data Science and AI Engineer for Spade AI, a start-up specializing in market intelligence and analysis, and a Data Analyst for Roadrunners Venture Studios, a company focused on commercializing lab technology. I also work at the UCLA Office of Advanced Research Computing as a High Performance Computing (HPC) Systems Intern.\nPlease do not hesitate to reach out to me via Email or LinkedIn. My most recent CV is linked here!"
   },
   {
-    "objectID": "index.html#home",
-    "href": "index.html#home",
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
     "title": "Naomi Chou",
     "section": "",
     "text": "Hi! Welcome to my personal website.\nI’m Naomi Chou, an undergraduate student at the University of California, Los Angeles (UCLA) majoring in Statistics and Data Science with minors in Professional Writing and Digital Humanities. My professional interests lie in the applications of data science in business, big data analytics, and artificial intelligence (AI).\nI currently work as a Data Science and AI Engineer for Spade AI, a start-up specializing in market intelligence and analysis, and a Data Analyst for Roadrunners Venture Studios, a company focused on commercializing lab technology. I also work at the UCLA Office of Advanced Research Computing as a High Performance Computing (HPC) Systems Intern.\nPlease do not hesitate to reach out to me via Email or LinkedIn. My most recent CV is linked here!"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Naomi Chou",
+    "section": "Interests",
+    "text": "Interests\nIn my free time, I enjoy reading science fictions and history books. I’m currently reading “The Three Body Problem” by Liu Cixin, which is an absolutely mind-blowing piece of work. I look forward to reading its sequel! Other books that I enjoy include Pride and Prejudice, the Harry Potter series, and Sapiens: A Brief History of Humankind.\nI also enjoy cooking and baking, with my famous dishes being Taiwanese Braised Pork rice and Banana Bread. Always looking for new recipes to try!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Naomi Chou",
+    "section": "",
+    "text": "Bachelor of Science in Statistics & Data Science\n\nRelevant Coursework: C++, Computational Statistics, Data Structure & Algorithms, Design & Analysis of Experiments, Discrete Math, Linear Algebra, Machine Learning, Multivariate Calculus, Probability & Statistics, R, Statistical Consulting\nHonors: Dean’s Honor List"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Naomi Chou",
+    "section": "",
+    "text": "Bachelor of Science in Statistics & Data Science\n\nRelevant Coursework: C++, Computational Statistics, Data Structure & Algorithms, Design & Analysis of Experiments, Discrete Math, Linear Algebra, Machine Learning, Multivariate Calculus, Probability & Statistics, R, Statistical Consulting\nHonors: Dean’s Honor List"
   }
 ]

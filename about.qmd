@@ -1,5 +1,52 @@
 ---
-toc: FALSE
+toc: false
 ---
-## About
-About this site
+## Education
+### University of California, Los Angeles (UCLA)
+*Bachelor of Science in Statistics & Data Science*\n
+
+- **Relevant Coursework:** C++, Computational Statistics, Data Structure & Algorithms, Design & Analysis of Experiments, Discrete Math, Linear Algebra, Machine Learning, Multivariate Calculus, Probability & Statistics, R, Statistical Consulting\n
+- **Honors:** Dean's Honor List\n
+
+
+## Work Experience
+### Data Analyst, *Roadrunners Venture Studios*
+**Los Angeles, CA** <span style="float:right;"> **February 2024 - Present **</span>
+
+-  Leading an extensive web scraping operation via Excel, Python, and R to collect over 10,000 publications and profiles related to 3D printing and additive manufacturing, efficiently storing and organizing findings in a custom database on AWS S3\n
+- Conducting in-depth data analysis of the scraped datasets using NumPy and Pandas to identify optimal 3D printing technologies for Fab AI, a Roadrunners Venture Studios co-founded company merging 3D printing with prompt engineering\n
+
+### Data Science/AI Engineer, *Spade AI*
+**Brooklyn, NY** <span style="float:right;"> **February 2024 - Present **</span>
+
+- Elevating generative AI models by integrating prompt engineering with Python programming, leveraging the OpenAI API to improve content accuracy and quality significantly\n
+- Developing a Python-powered chat interface to deliver precise market intelligence insights\n
+- Utilizing Jira for project management to efficiently organize and track development tasks and collaborating on the expansion
+of product features to include competitor and risk analysis\n
+
+### High Performance Computing (HPC) Systems Intern, *UCLA OARC*
+**Los Angeles, CA** <span style="float:right;"> **January 2024 - Present **</span>
+
+- Enhancing scholarly communication by editing citations on Zotero and web scraping related publications, acknowledging the significant contributions of the UCLA Hoffman2 cluster to various research projects\n
+- Conducting comprehensive data analysis to evaluate the cluster's impact and identify opportunities for optimization, informing future enhancements and user support strategies\n
+
+### STEM and Writing Tutor
+**Remote**<span style="float:right;"> **January 2019 - Present **</span>
+
+- Tutored over 5 middle and high school students in (AP/non-AP) level subjects such as mathematics, statistics, and writing, offering personalized and adaptive teaching strategies\n
+- Developed and shared tailored notes and resources to clarify complex mathematical, statistical, and writing concepts, leading to significant academic improvements from an average of D+ to B+\n
+
+### Business Development Intern, *Evyree*
+**Los Angeles, CA** <span style="float:right;"> **April 2023 - December 2023 **</span>
+
+- Forged strategic partnerships with 25+ businesses such as Sweetgreen to offer exclusive deals and discounts for the UCLA and upcoming Santa Monica College (SMC) student community\n
+- Orchestrated targeted digital marketing campaigns on social media platforms such as Instagram by curating 5+ customized posts to enhance brand visibility and promote customer engagement\n
+
+### Marketing Sales Intern, *Fubon Financial Holding Co.*
+**Taipei, Taiwan**  <span style="float:right;"> **July - September 2022 **</span>
+
+- Conducted 100+ market surveys to analyze customer needs and current trends in the healthcare industry to better cater to customers’ needs and minimize financial losses\n
+- Designed and discussed effective marketing strategies such as the creation of referral programs, resulting in an outreach of more than 50+ potential customers\n
+
+
+

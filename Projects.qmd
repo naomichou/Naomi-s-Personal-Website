@@ -1,6 +1,21 @@
 ---
-toc: FALSE
+toc: false
+listing: 
+  - id: "projects-listing"
+    contents: 
+    - "/projects/*.qmd"
+    type: default
+    feed: true
+    filter-ui: false
+    sort: date desc
+    sort-ui: false
+    categories: true
+page-layout: full
+title: Projects
+title-block-bannerrR: false
 ---
-## Projects 
 
 Here are my projects
+
+:::projects-listing
+:::
