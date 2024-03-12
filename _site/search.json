@@ -4,13 +4,20 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here are my projects"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Naomi’s Website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 4\n\n[1] 5"
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]

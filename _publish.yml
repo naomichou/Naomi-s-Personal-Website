@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 1a1c1ee6-8dc0-48c7-9a95-426a68841460
+      url: 'naomichou.netlify.app'
