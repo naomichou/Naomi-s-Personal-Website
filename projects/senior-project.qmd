@@ -1,0 +1,8 @@
+---
+title: Senior Project - Taiwanese History Blog
+category:
+  -"Blog"
+date: April 30, 2021
+description: A year-long senior capstone project investigating the history of modernization in Taiwan via architecture.
+image: taipei101.jpeg
+---
