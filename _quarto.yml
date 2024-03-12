@@ -2,12 +2,15 @@ project:
   type: website
 
 website:
-  title: "Naomi's Website"
+  title: "Naomi Chou"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: Biography
+      - href: Projects.qmd
+        text: Projects
 
 format:
   html:
@@ -15,5 +18,7 @@ format:
     css: styles.css
     toc: true
 
+execute: 
+  freeze: auto
 
 
